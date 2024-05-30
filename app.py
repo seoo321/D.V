@@ -23,7 +23,7 @@ with col2:
         st.write(' ')
 
 # 링크를 포함한 텍스트 추가
-st.markdown("[출처](https://data.seoul.go.kr/dataList/OA-2741/S/1/datasetView.do)")
+st.markdown("[출처](https://data.seoul.go.kr)")
 
 # HTML 파일 경로
 file_path = 'seoul.html'
